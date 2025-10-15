@@ -141,12 +141,3 @@ SELECT * FROM sales WHERE amount > 1000;
     * **Simplified SQL-based** operations
 
 ---
-
-## 📚 References
-
-* [Databricks Official Docs](https://docs.databricks.com/)
-* [Snowflake Official Docs](https://docs.snowflake.com/)
-* [Delta Lake Documentation](https://delta.io/)
-* [Snowpark Developer Guide](https://docs.snowflake.com/en/developer-guide/snowpark)
-
----
